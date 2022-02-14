@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sufyandroid
-- 👀 I’m interested in Data Engineering
+- 👋 Hi, I’m @sufyan
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine Learning
 
