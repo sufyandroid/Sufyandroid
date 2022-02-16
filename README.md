@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Sufyan
+## 👋 Hi, I’m Sufyan
 
 ### I'm a Data Analyst!
 - 🌱 I’m currently learning Data Science
