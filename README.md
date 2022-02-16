@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sufyan
-- 👀 I’m interested in Data Analysis
+### 👋 Hi there, I’m Sufyan
+
+## I'm a Data Analyst!
 - 🌱 I’m currently learning Data Science
 - 💞️ I will IA collaborate on Machine Learning
 
