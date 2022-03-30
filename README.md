@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Sufyan
 
 ### I’m a Data Analyst!
-- 🚀 I’m interested to improve my skills as a Data Analyst
+- 🚀 I’m interested to collaborate more as a Data Analyst
 - 🖥️ I’m currently learning Data Science
 
 
